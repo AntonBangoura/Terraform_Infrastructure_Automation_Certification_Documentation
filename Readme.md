@@ -4,3 +4,4 @@ https://developer.hashicorp.com/terraform/tutorials/certification/associate-stud
 https://app.exampro.co/student/material/terraform/3371 <br> <br> 
 <br> day 1 <br>
 <br> finished chapter 1 <br>
+<br> day 2 <br>
