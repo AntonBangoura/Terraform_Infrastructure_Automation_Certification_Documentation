@@ -12,3 +12,5 @@ https://app.exampro.co/student/material/terraform/3371 <br> <br>
 <br> no work <br>
 <br> day 5 <br>
 <br> no work <br>
+<br> day 6 <br>
+<br> finished chapter 3 <br>
