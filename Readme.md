@@ -16,3 +16,5 @@ https://app.exampro.co/student/material/terraform/3371 <br> <br>
 <br> finished chapter 3 <br>
 <br> day 7 <br>
 <br> chapter 4 <br>
+<br> day 8 <br>
+<br> chapter 4 <br>
