@@ -18,3 +18,5 @@ https://app.exampro.co/student/material/terraform/3371 <br> <br>
 <br> chapter 4 <br>
 <br> day 8 <br>
 <br> chapter 4 <br>
+<br> day 9 <br>
+<br> install <br>
