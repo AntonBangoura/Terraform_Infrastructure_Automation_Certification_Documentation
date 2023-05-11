@@ -22,3 +22,5 @@ https://app.exampro.co/student/material/terraform/3371 <br> <br>
 <br> install <br>
 <br> day 10 <br>
 <br> cisco <br>
+<br> day 11 <br>
+<br> terraform apply <br>
