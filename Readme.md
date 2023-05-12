@@ -24,3 +24,5 @@ https://app.exampro.co/student/material/terraform/3371 <br> <br>
 <br> cisco <br>
 <br> day 11 <br>
 <br> terraform apply <br>
+<br> day 12 <br>
+<br> terraform variables <br>
