@@ -26,3 +26,5 @@ https://app.exampro.co/student/material/terraform/3371 <br> <br>
 <br> terraform apply <br>
 <br> day 12 <br>
 <br> terraform variables <br>
+<br> day 13 <br>
+<br> no work <br>
