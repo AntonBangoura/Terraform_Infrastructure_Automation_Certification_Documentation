@@ -32,3 +32,5 @@ https://app.exampro.co/student/material/terraform/3371 <br> <br>
 <br> no work <br>
 <br> day 15 <br>
 <br> no work <br>
+<br> day 16 <br>
+<br> no work <br>
