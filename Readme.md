@@ -36,3 +36,5 @@ https://app.exampro.co/student/material/terraform/3371 <br> <br>
 <br> no work <br>
 <br> day 17 <br>
 <br> cloud 16m <br>
+<br> day 18 <br>
+<br> no work <br>
